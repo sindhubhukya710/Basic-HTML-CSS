@@ -39,7 +39,7 @@ body {
         align-items: center;
     }
     padding: 50px;
-    text-align: center;
+    text-align: left;
 }
 .content {
     display: flex;
